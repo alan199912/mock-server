@@ -547,5 +547,40 @@
         }
       ]
     }
+  ],
+  "Traceability": [
+    {
+      "project": "4141",
+      "mt": "M",
+      "purchaseOrder": "40000091542",
+      "rto": "CERT",
+      "date": "21/01/2023",
+      "supplier": "INDAVE PATAGONIA",
+      "certificate": "R",
+      "quantity": "2",
+      "description": "WELDOLET"
+    },
+    {
+      "project": "4141",
+      "mt": "M",
+      "purchaseOrder": "40000091908",
+      "rto": "CERT",
+      "date": "21/01/2023",
+      "supplier": "INDAVE PATAGONIA",
+      "certificate": "R",
+      "quantity": "1",
+      "description": "BUJE RED HEX"
+    },
+    {
+      "project": "4141",
+      "mt": "M",
+      "purchaseOrder": "40000091339",
+      "rto": "CERT",
+      "date": "21/01/2023",
+      "supplier": "ALGOMEC",
+      "certificate": "R",
+      "quantity": "3",
+      "description": "TEE RED"
+    }
   ]
 }
