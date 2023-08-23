@@ -817,6 +817,14 @@
     {
       "purchaseOrder": 12345,
       "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ...."
+    },
+    {
+      "purchaseOrder": 28455,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ...."
+    },
+    {
+      "purchaseOrder": 20555,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ...."
     }
   ],
   "Comments": [
@@ -837,6 +845,86 @@
     },
     {
       "purchaseOrder": 4506863895,
+      "comment": "lib ok - se coord ent//22-2 Se coord insp 23-2 -  se pide detalle //9-2 ok Fecha para Insp. - se cominza gestion de LD //1-2 ok AT para fabricar //28-1Se envia OC por Compras a conf FE",
+      "date": "2023-07-20T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 19352,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ....",
+      "date": "2023-08-10T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 19352,
+      "comment": "4/3 Se envía OC, a confirmar plazo de entrega--12/3 Se reclama confirmación de plazo de entrega--18/3 Proveedor solicita la modificación de la OC a Compras para realizar la entrega -- 30/3 Se reclama envío de OC modificada a Compras",
+      "date": "2023-07-08T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 19352,
+      "comment": "29/3 Se solicita confirmación de día de despacho--5/4 Ingreso parcial 30/3 (9 UND)",
+      "date": "2023-07-02T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 19352,
+      "comment": "lib ok - se coord ent//22-2 Se coord insp 23-2 -  se pide detalle //9-2 ok Fecha para Insp. - se cominza gestion de LD //1-2 ok AT para fabricar //28-1Se envia OC por Compras a conf FE",
+      "date": "2023-07-20T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 12345,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ....",
+      "date": "2023-08-10T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 12345,
+      "comment": "4/3 Se envía OC, a confirmar plazo de entrega--12/3 Se reclama confirmación de plazo de entrega--18/3 Proveedor solicita la modificación de la OC a Compras para realizar la entrega -- 30/3 Se reclama envío de OC modificada a Compras",
+      "date": "2023-07-08T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 12345,
+      "comment": "29/3 Se solicita confirmación de día de despacho--5/4 Ingreso parcial 30/3 (9 UND)",
+      "date": "2023-07-02T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 12345,
+      "comment": "lib ok - se coord ent//22-2 Se coord insp 23-2 -  se pide detalle //9-2 ok Fecha para Insp. - se cominza gestion de LD //1-2 ok AT para fabricar //28-1Se envia OC por Compras a conf FE",
+      "date": "2023-07-20T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 28455,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ....",
+      "date": "2023-08-10T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 28455,
+      "comment": "4/3 Se envía OC, a confirmar plazo de entrega--12/3 Se reclama confirmación de plazo de entrega--18/3 Proveedor solicita la modificación de la OC a Compras para realizar la entrega -- 30/3 Se reclama envío de OC modificada a Compras",
+      "date": "2023-07-08T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 28455,
+      "comment": "29/3 Se solicita confirmación de día de despacho--5/4 Ingreso parcial 30/3 (9 UND)",
+      "date": "2023-07-02T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 28455,
+      "comment": "lib ok - se coord ent//22-2 Se coord insp 23-2 -  se pide detalle //9-2 ok Fecha para Insp. - se cominza gestion de LD //1-2 ok AT para fabricar //28-1Se envia OC por Compras a conf FE",
+      "date": "2023-07-20T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 20555,
+      "comment": "#9911 -- 3/3 Se solicita KOM para 05/03--5/3 Se envía documentación y LD para aprobar--9/3 Se envían comentarios sobre documentación (mail), ....",
+      "date": "2023-08-10T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 20555,
+      "comment": "4/3 Se envía OC, a confirmar plazo de entrega--12/3 Se reclama confirmación de plazo de entrega--18/3 Proveedor solicita la modificación de la OC a Compras para realizar la entrega -- 30/3 Se reclama envío de OC modificada a Compras",
+      "date": "2023-07-08T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 20555,
+      "comment": "29/3 Se solicita confirmación de día de despacho--5/4 Ingreso parcial 30/3 (9 UND)",
+      "date": "2023-07-02T15:00:21.957Z"
+    },
+    {
+      "purchaseOrder": 20555,
       "comment": "lib ok - se coord ent//22-2 Se coord insp 23-2 -  se pide detalle //9-2 ok Fecha para Insp. - se cominza gestion de LD //1-2 ok AT para fabricar //28-1Se envia OC por Compras a conf FE",
       "date": "2023-07-20T15:00:21.957Z"
     }
